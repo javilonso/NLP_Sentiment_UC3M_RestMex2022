@@ -1,3 +1,4 @@
 /.idea
 /.vscode
 /venv
+/SVM/embeddings-l-model.vec

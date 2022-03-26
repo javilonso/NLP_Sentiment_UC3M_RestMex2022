@@ -23,7 +23,7 @@
       "_type": "Value"
     },
     "Attraction": {
-      "dtype": "string",
+      "dtype": "int64",
       "id": null,
       "_type": "Value"
     },

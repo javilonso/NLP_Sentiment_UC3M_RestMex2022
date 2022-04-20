@@ -3,3 +3,4 @@
 /venv
 /SVM/embeddings-l-model.vec
 /.ipynb_checkpoints
+*.vec

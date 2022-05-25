@@ -2,9 +2,9 @@
 https://sites.google.com/cicese.edu.mx/rest-mex-2022/tracks/sentiment-analysis-task
 
 ## Authors
-Mario Pérez Enriquéz
-Javier Alonso Mencía
-Isabel Segura-Bedmar
+- Mario Pérez Enriquéz
+- Javier Alonso Mencía
+- Isabel Segura-Bedmar
 
 ## To install
 1. Python version 3.9.*

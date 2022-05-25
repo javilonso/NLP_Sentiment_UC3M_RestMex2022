@@ -1,6 +1,11 @@
 # NLP_Sentiment_UC3M
 https://sites.google.com/cicese.edu.mx/rest-mex-2022/tracks/sentiment-analysis-task
 
+## Authors
+Mario Pérez Enriquéz
+Javier Alonso Mencía
+Isabel Segura-Bedmar
+
 ## To install
 1. Python version 3.9.*
 2. pip install -r requirements.txt

@@ -1,5 +1,8 @@
-# NLP_Sentiment_UC3M
+# NLP_Sentiment_UC3M - Sentiment Analysis Task - Rest-MEX
+
 https://sites.google.com/cicese.edu.mx/rest-mex-2022/tracks/sentiment-analysis-task
+
+The subtask is a classification task where the participating system can predict the polarity of an opinion issued by a tourist who traveled to the most representative places, restaurants and hotels in Mexico. This collection was obtained from the tourists who shared their opinion on TripAdvisor between 2002 and 2021. Each opinion's class is an integer between [1, 5], where 1 represents the most negative polarity and 5 the most positive. Also, each opinion has the type label.
 
 ## Authors
 - Mario Pérez Enriquéz

@@ -9,6 +9,9 @@ The subtask is a classification task where the participating system can predict 
 - Javier Alonso Mencía
 - Isabel Segura-Bedmar
 
+## Paper
+https://ceur-ws.org/Vol-3202/restmex-paper11.pdf
+
 ## To install
 1. Python version 3.9.*
 2. pip install -r requirements.txt
